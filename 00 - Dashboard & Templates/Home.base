@@ -1,0 +1,14 @@
+views:
+  - type: cards
+    name: View
+    order:
+      - file.name
+      - file.backlinks
+      - file.folder
+      - file.path
+    imageFit: contain
+    imageAspectRatio: 1.8
+  - type: table
+    name: Table
+  - type: cards
+    name: View 2

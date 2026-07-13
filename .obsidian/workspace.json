@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "1d889402e6c2e25e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8134582b00eeeb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5a1e9440a75e583",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - CTF Writeups/OhSINT — TryHackMe Writeup.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "OhSINT — TryHackMe Writeup"
+            }
+          },
+          {
+            "id": "31d3740f18dfd102",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "78a902e6cdfcf917",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8678aa382919b89e",
+    "type": "split",
+    "children": [
+      {
+        "id": "78d88d03aaad2410",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7210b0aa09ddfef7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4b5b0a4d37254666",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3428fd0de07398ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5e50cc69e5407d49",
+    "type": "split",
+    "children": [
+      {
+        "id": "c30e1386123e8b33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00b6f4f59fce1b7e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1c88ef10cf34f4ff",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6be0a4ba0dded629",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "dfa8a3eeeeb78200",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "298edb625a273e92",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "06 - Cheatsheets/Linux Cheat sheet.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Linux Cheat sheet"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "a5a1e9440a75e583",
+  "lastOpenFiles": [
+    "01 - Learning/Linux Fundamentals/01 - System Navigation/Day -3 File Descriptors and Redirections.md",
+    "01 - Learning/Linux Fundamentals/01 - System Navigation/Day -2 Working with files and Directories.md",
+    "01 - Learning/Linux Fundamentals/01 - System Navigation/Day -1 Navigation.md",
+    "00 - Dashboard & Templates/Home.base",
+    "01 - Learning/Linux Fundamentals/01 - System Navigation/Day -6 Permission Management.md",
+    "01 - Learning/Linux Fundamentals/03 - Networking & Hardening/Day -20 System Logs and Monitoring.md",
+    "01 - Learning/Networking/Untitled",
+    "01 - Learning/Linux Fundamentals/03 - Networking & Hardening/Day -19 Firewall Setup.md",
+    "01 - Learning/Linux Fundamentals/03 - Networking & Hardening/Day -18 Linux Security.md",
+    "01 - Learning/Linux Fundamentals/03 - Networking & Hardening/Day -17 Remote Desktop Protocols in Linux.md",
+    "01 - Learning/Linux Fundamentals/03 - Networking & Hardening/Day -16 Networking Configuration.md",
+    "01 - Learning/Linux Fundamentals/02 - System Management/Day -15 Containerization.md",
+    "01 - Learning/Linux Fundamentals/02 - System Management/Day -14 File System Management.md",
+    "01 - Learning/Linux Fundamentals/02 - System Management/Day -13 Backup and Restore.md",
+    "01 - Learning/Linux Fundamentals/02 - System Management/Day -12 Working with Web Services.md",
+    "01 - Learning/Linux Fundamentals/02 - System Management/Day -11 Network Services.md",
+    "01 - Learning/Linux Fundamentals/02 - System Management/Day -10 Task Scheduling.md",
+    "01 - Learning/Linux Fundamentals/02 - System Management/Day -9  Service and Process Management.md",
+    "01 - Learning/Linux Fundamentals/02 - System Management/Day -8  Package Management.md",
+    "01 - Learning/Linux Fundamentals/02 - System Management/Day -7 User Management.md",
+    "01 - Learning/Linux Fundamentals/01 - System Navigation/Day -5 RegEX.md",
+    "01 - Learning/Networking/Day -01.md",
+    "01 - Learning/Linux Fundamentals/01 - System Navigation/Day -4 Filtering Contents.md",
+    "01 - Learning/Linux Fundamentals/03 - Networking & Hardening",
+    "01 - Learning/Linux Fundamentals/System Navigation/Untitled 1.md",
+    "01 - Learning/Linux Fundamentals/System Navigation/Untitled.md",
+    "01 - Learning/Linux Fundamentals/02 - System Management",
+    "01 - Learning/Random Knowledge/Random 2.md",
+    "02 - Tools/Wigle (Wireless Geographic Logging Engine).md",
+    "08 - Methodology",
+    "01 - Learning/Linux Fundamentals/01 - System Navigation",
+    "Untitled.canvas",
+    "06 - Cheatsheets/linux-cheatsheet.pdf",
+    "01 - Learning/Random Knowledge",
+    "Untitled 1.base",
+    "07 - Media"
+  ]
+}
