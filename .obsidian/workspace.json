@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - CTF Writeups/OhSINT — TryHackMe Writeup.md",
+                "file": "03 - CTF Writeups/OTW Bandit - Writeups.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,17 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "OhSINT — TryHackMe Writeup"
-            }
-          },
-          {
-            "id": "31d3740f18dfd102",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "OTW Bandit - Writeups"
             }
           },
           {
@@ -49,6 +39,19 @@
               "state": {},
               "icon": "lucide-file",
               "title": "New tab"
+            }
+          },
+          {
+            "id": "47eaa0176ee2c835",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "00 - Dashboard & Templates/Home.base",
+                "viewName": "View"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "Home"
             }
           }
         ]
@@ -215,10 +218,16 @@
   },
   "active": "a5a1e9440a75e583",
   "lastOpenFiles": [
+    "00 - Dashboard & Templates/Home.base",
+    "01 - Learning/Networking/Day -01.md",
+    "03 - CTF Writeups/OTW Bandit - Writeups.md",
+    "01 - Learning/Linux Fundamentals/Untitled.base",
+    "01 - Learning/Linux Fundamentals/01 - System Navigation/Day -5 RegEX.md",
+    "01 - Learning/Linux Fundamentals/01 - System Navigation/Day -4 Filtering Contents.md",
+    "03 - CTF Writeups/OhSINT — TryHackMe Writeup.md",
     "01 - Learning/Linux Fundamentals/01 - System Navigation/Day -3 File Descriptors and Redirections.md",
     "01 - Learning/Linux Fundamentals/01 - System Navigation/Day -2 Working with files and Directories.md",
     "01 - Learning/Linux Fundamentals/01 - System Navigation/Day -1 Navigation.md",
-    "00 - Dashboard & Templates/Home.base",
     "01 - Learning/Linux Fundamentals/01 - System Navigation/Day -6 Permission Management.md",
     "01 - Learning/Linux Fundamentals/03 - Networking & Hardening/Day -20 System Logs and Monitoring.md",
     "01 - Learning/Networking/Untitled",
@@ -235,21 +244,15 @@
     "01 - Learning/Linux Fundamentals/02 - System Management/Day -9  Service and Process Management.md",
     "01 - Learning/Linux Fundamentals/02 - System Management/Day -8  Package Management.md",
     "01 - Learning/Linux Fundamentals/02 - System Management/Day -7 User Management.md",
-    "01 - Learning/Linux Fundamentals/01 - System Navigation/Day -5 RegEX.md",
-    "01 - Learning/Networking/Day -01.md",
-    "01 - Learning/Linux Fundamentals/01 - System Navigation/Day -4 Filtering Contents.md",
     "01 - Learning/Linux Fundamentals/03 - Networking & Hardening",
     "01 - Learning/Linux Fundamentals/System Navigation/Untitled 1.md",
     "01 - Learning/Linux Fundamentals/System Navigation/Untitled.md",
     "01 - Learning/Linux Fundamentals/02 - System Management",
-    "01 - Learning/Random Knowledge/Random 2.md",
-    "02 - Tools/Wigle (Wireless Geographic Logging Engine).md",
     "08 - Methodology",
     "01 - Learning/Linux Fundamentals/01 - System Navigation",
     "Untitled.canvas",
     "06 - Cheatsheets/linux-cheatsheet.pdf",
     "01 - Learning/Random Knowledge",
-    "Untitled 1.base",
-    "07 - Media"
+    "Untitled 1.base"
   ]
 }
