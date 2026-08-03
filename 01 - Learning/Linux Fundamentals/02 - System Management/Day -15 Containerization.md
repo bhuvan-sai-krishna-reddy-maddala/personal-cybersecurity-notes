@@ -246,3 +246,6 @@ Previous:
 
 Next:
 [[Day -16 Networking Configuration]]
+
+Index:
+[[00 - Index Linux Fundamentals]]

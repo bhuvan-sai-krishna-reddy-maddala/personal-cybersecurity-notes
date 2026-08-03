@@ -333,5 +333,5 @@ Unexpected traffic on port 22 → possibly scanning or tunneling
 Previous:
 [[Day -19 Firewall Setup]]
 
-Next:
-[[Home.base]]
+Index:
+[[00 - Index Linux Fundamentals]]

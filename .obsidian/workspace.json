@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - CTF Writeups/OTW Bandit - Writeups.md",
-                "mode": "source",
+                "file": "03 - CTF Writeups/Google Dorking - TryHackMe Writeup.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,30 +28,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "OTW Bandit - Writeups"
+              "title": "Google Dorking - TryHackMe Writeup"
             }
           },
           {
-            "id": "78a902e6cdfcf917",
+            "id": "330e555392736dda",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "47eaa0176ee2c835",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "00 - Dashboard & Templates/Home.base",
-                "viewName": "View"
-              },
-              "icon": "lucide-layout-grid",
-              "title": "Home"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -74,7 +61,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -111,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 396.5
   },
   "right": {
     "id": "5e50cc69e5407d49",
@@ -218,35 +207,36 @@
   },
   "active": "a5a1e9440a75e583",
   "lastOpenFiles": [
-    "00 - Dashboard & Templates/Home.base",
-    "01 - Learning/Networking/Day -01.md",
-    "03 - CTF Writeups/OTW Bandit - Writeups.md",
-    "01 - Learning/Linux Fundamentals/Untitled.base",
+    "03 - CTF Writeups/Untitled 1.md",
+    "03 - CTF Writeups/Google Dorking - TryHackMe Writeup.md",
+    "00 - Dashboard & Templates/00 - Index Linux Fundamentals.md",
+    "02 - Tools/VIM editor.md",
+    "01 - Learning/Linux Fundamentals/03 - Networking & Hardening/Day -20 System Logs and Monitoring.md",
+    "01 - Learning/Linux Fundamentals/02 - System Management/Day -15 Containerization.md",
+    "01 - Learning/Linux Fundamentals/01 - System Navigation/Day -6 Permission Management.md",
     "01 - Learning/Linux Fundamentals/01 - System Navigation/Day -5 RegEX.md",
     "01 - Learning/Linux Fundamentals/01 - System Navigation/Day -4 Filtering Contents.md",
-    "03 - CTF Writeups/OhSINT — TryHackMe Writeup.md",
     "01 - Learning/Linux Fundamentals/01 - System Navigation/Day -3 File Descriptors and Redirections.md",
     "01 - Learning/Linux Fundamentals/01 - System Navigation/Day -2 Working with files and Directories.md",
     "01 - Learning/Linux Fundamentals/01 - System Navigation/Day -1 Navigation.md",
-    "01 - Learning/Linux Fundamentals/01 - System Navigation/Day -6 Permission Management.md",
-    "01 - Learning/Linux Fundamentals/03 - Networking & Hardening/Day -20 System Logs and Monitoring.md",
+    "00 - Dashboard & Templates/Home.base",
+    "01 - Learning/Linux Fundamentals/02 - System Management/Day -8  Package Management.md",
+    "03 - CTF Writeups/OTW Bandit - Writeups.md",
+    "Day -2 Working with files and....md",
+    "01 - Learning/Networking/Day -01.md",
+    "01 - Learning/Linux Fundamentals/Untitled.base",
+    "03 - CTF Writeups/OhSINT — TryHackMe Writeup.md",
     "01 - Learning/Networking/Untitled",
     "01 - Learning/Linux Fundamentals/03 - Networking & Hardening/Day -19 Firewall Setup.md",
     "01 - Learning/Linux Fundamentals/03 - Networking & Hardening/Day -18 Linux Security.md",
     "01 - Learning/Linux Fundamentals/03 - Networking & Hardening/Day -17 Remote Desktop Protocols in Linux.md",
     "01 - Learning/Linux Fundamentals/03 - Networking & Hardening/Day -16 Networking Configuration.md",
-    "01 - Learning/Linux Fundamentals/02 - System Management/Day -15 Containerization.md",
     "01 - Learning/Linux Fundamentals/02 - System Management/Day -14 File System Management.md",
     "01 - Learning/Linux Fundamentals/02 - System Management/Day -13 Backup and Restore.md",
     "01 - Learning/Linux Fundamentals/02 - System Management/Day -12 Working with Web Services.md",
     "01 - Learning/Linux Fundamentals/02 - System Management/Day -11 Network Services.md",
     "01 - Learning/Linux Fundamentals/02 - System Management/Day -10 Task Scheduling.md",
-    "01 - Learning/Linux Fundamentals/02 - System Management/Day -9  Service and Process Management.md",
-    "01 - Learning/Linux Fundamentals/02 - System Management/Day -8  Package Management.md",
-    "01 - Learning/Linux Fundamentals/02 - System Management/Day -7 User Management.md",
     "01 - Learning/Linux Fundamentals/03 - Networking & Hardening",
-    "01 - Learning/Linux Fundamentals/System Navigation/Untitled 1.md",
-    "01 - Learning/Linux Fundamentals/System Navigation/Untitled.md",
     "01 - Learning/Linux Fundamentals/02 - System Management",
     "08 - Methodology",
     "01 - Learning/Linux Fundamentals/01 - System Navigation",

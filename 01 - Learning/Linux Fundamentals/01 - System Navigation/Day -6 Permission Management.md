@@ -234,3 +234,6 @@ Previous:
 
 Next:
 [[Day -7 User Management]]
+
+Index:
+[[00 - Index Linux Fundamentals]]
