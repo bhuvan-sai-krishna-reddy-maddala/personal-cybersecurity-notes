@@ -22,13 +22,13 @@ ls -l /var/            # list contents of a SPECIFIC path without navigating the
 ### Reading ls -l Output
 ```
 drwxr-xr-x 2 cry0l1t3 htbacademy 4096 Nov 13 17:37 Desktop  
-│ │ │ │ │ │ │  
-│ │ │ │ │ │ └── Name  
-│ │ │ │ │ └── Date/time modified  
-│ │ │ │ └── Size in bytes (or blocks for dirs)  
-│ │ │ └── Group owner  
-│ │ └── Owner  
-│ └── Number of hard links  
+│          │ │ │ │ │ │  
+│          │ │ │ │ │ └── Name  
+│          │ │ │ │ └── Date/time modified  
+│          │ │ │ └── Size in bytes (or blocks for dirs)  
+│          │ │ └── Group owner  
+│          │ └── Owner  
+│          └── Number of hard links  
 └── Type and permissions
 
 ```

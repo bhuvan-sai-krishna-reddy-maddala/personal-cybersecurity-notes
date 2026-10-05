@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - CTF Writeups/Google Dorking - TryHackMe Writeup.md",
-                "mode": "preview",
+                "file": "01 - Learning/Web Security/PortSwigger/Apprentice/Server-Side-Vulnerabilities/Path Traversal.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Google Dorking - TryHackMe Writeup"
+              "title": "Path Traversal"
             }
           },
           {
@@ -41,7 +41,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,44 +206,44 @@
       "random-note:Open random note": false
     }
   },
-  "active": "a5a1e9440a75e583",
+  "active": "330e555392736dda",
   "lastOpenFiles": [
-    "03 - CTF Writeups/Untitled 1.md",
-    "03 - CTF Writeups/Google Dorking - TryHackMe Writeup.md",
+    "00 - Dashboard & Templates/00 - Port Swigger Web Security.md",
     "00 - Dashboard & Templates/00 - Index Linux Fundamentals.md",
-    "02 - Tools/VIM editor.md",
-    "01 - Learning/Linux Fundamentals/03 - Networking & Hardening/Day -20 System Logs and Monitoring.md",
-    "01 - Learning/Linux Fundamentals/02 - System Management/Day -15 Containerization.md",
-    "01 - Learning/Linux Fundamentals/01 - System Navigation/Day -6 Permission Management.md",
+    "00 - Dashboard & Templates/Keyboard Shortcuts for Linux.md",
+    "03 - CTF Writeups/Google Dorking - TryHackMe Writeup.md",
+    "03 - CTF Writeups/Untitled 1.md",
+    "01 - Learning/Web Security/PortSwigger/Apprentice/Server-Side-Vulnerabilities/Path Traversal.md",
+    "01 - Learning/Linux Fundamentals/01 - System Navigation/Day -1 Navigation.md",
+    "01 - Learning/Web Security/Owasp Juice Shop",
+    "01 - Learning/Web Security/PortSwigger/Apprentice",
+    "01 - Learning/Web Security/PortSwigger/Apprentice/Server-Side-Vulnerabilities",
+    "01 - Learning/Web Security/PortSwigger",
+    "02 - Tools/Wireshark.md",
+    "01 - Learning/Linux Fundamentals/02 - System Management/Day -7 User Management.md",
     "01 - Learning/Linux Fundamentals/01 - System Navigation/Day -5 RegEX.md",
     "01 - Learning/Linux Fundamentals/01 - System Navigation/Day -4 Filtering Contents.md",
     "01 - Learning/Linux Fundamentals/01 - System Navigation/Day -3 File Descriptors and Redirections.md",
     "01 - Learning/Linux Fundamentals/01 - System Navigation/Day -2 Working with files and Directories.md",
-    "01 - Learning/Linux Fundamentals/01 - System Navigation/Day -1 Navigation.md",
-    "00 - Dashboard & Templates/Home.base",
-    "01 - Learning/Linux Fundamentals/02 - System Management/Day -8  Package Management.md",
-    "03 - CTF Writeups/OTW Bandit - Writeups.md",
-    "Day -2 Working with files and....md",
-    "01 - Learning/Networking/Day -01.md",
-    "01 - Learning/Linux Fundamentals/Untitled.base",
-    "03 - CTF Writeups/OhSINT — TryHackMe Writeup.md",
-    "01 - Learning/Networking/Untitled",
-    "01 - Learning/Linux Fundamentals/03 - Networking & Hardening/Day -19 Firewall Setup.md",
-    "01 - Learning/Linux Fundamentals/03 - Networking & Hardening/Day -18 Linux Security.md",
-    "01 - Learning/Linux Fundamentals/03 - Networking & Hardening/Day -17 Remote Desktop Protocols in Linux.md",
+    "02 - Tools/Nmap — Network Mapper.md",
     "01 - Learning/Linux Fundamentals/03 - Networking & Hardening/Day -16 Networking Configuration.md",
     "01 - Learning/Linux Fundamentals/02 - System Management/Day -14 File System Management.md",
     "01 - Learning/Linux Fundamentals/02 - System Management/Day -13 Backup and Restore.md",
     "01 - Learning/Linux Fundamentals/02 - System Management/Day -12 Working with Web Services.md",
     "01 - Learning/Linux Fundamentals/02 - System Management/Day -11 Network Services.md",
     "01 - Learning/Linux Fundamentals/02 - System Management/Day -10 Task Scheduling.md",
+    "01 - Learning/Linux Fundamentals/02 - System Management/Day -9  Service and Process Management.md",
+    "01 - Learning/Linux Fundamentals/02 - System Management/Day -8  Package Management.md",
+    "01 - Learning/Linux Fundamentals/01 - System Navigation/Day -6 Permission Management.md",
+    "01 - Learning/Networking/Day 02 Flashcards - Interfaces and Cables.apkg",
+    "01 - Learning/Networking/Day 01 Flashcards - Network Devices.apkg",
+    "03 - CTF Writeups/OTW Bandit - Writeups.md",
+    "02 - Tools/VIM editor.md",
+    "01 - Learning/Linux Fundamentals/03 - Networking & Hardening/Day -20 System Logs and Monitoring.md",
+    "00 - Dashboard & Templates/Home.base",
+    "01 - Learning/Linux Fundamentals/Untitled.base",
+    "01 - Learning/Networking/Untitled",
     "01 - Learning/Linux Fundamentals/03 - Networking & Hardening",
-    "01 - Learning/Linux Fundamentals/02 - System Management",
-    "08 - Methodology",
-    "01 - Learning/Linux Fundamentals/01 - System Navigation",
-    "Untitled.canvas",
-    "06 - Cheatsheets/linux-cheatsheet.pdf",
-    "01 - Learning/Random Knowledge",
-    "Untitled 1.base"
+    "Untitled.canvas"
   ]
 }
