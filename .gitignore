@@ -1,0 +1,25 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Obsidian workspace settings (local only)
+.obsidian/workspace.json
+.obsidian/appearance.json
+.obsidian/app.json
+
+# Obsidian cache and backups
+.obsidian/plugins/*/data.json
+.obsidian/plugins/*/cache/
+.obsidian/plugins/*/node_modules/
+.obsidian/plugins/*/package-lock.json
+.obsidian/plugins/*/dist/
+.obsidian/plugins/*/build/
+
+# Optional: ignore all Obsidian configs except core settings
+.obsidian/
+
+# Node / Python / other dev junk
+node_modules/
+venv/
+__pycache__/
+*.py[cod]
